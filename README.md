@@ -7,14 +7,14 @@ The data is collected from a Kaggle-House-prices-advanced-regression-techniques.
 * Exploring the data and understanding the information of data and the null values in a datasets.
 * exploring the null values using a seaborn heatmap.
 * drop the columns which contains more than 20% null values.
-# Handling missing values
+# 3. Handling missing values
 1. Bsmt feature
 2. Garage feature
 3. LotFrontage feature
 4. remaining features
-# Feature transformation
+# 4. Feature transformation
 converting the features which contains a categorical values.
-# Training the model
+# 5. Training the model
 Spliting the datasets into x_train,y_train,x_test and Training the model by using different algorithms:
 1. Linear Regression
 2. Ridge Model
